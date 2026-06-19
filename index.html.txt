@@ -1,0 +1,309 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="A premium HVAC technology brand serving Oklahoma City with intelligent diagnostics, clean installation, and concierge comfort systems."
+    />
+    <title>Aether Climate | Future-Ready HVAC for Oklahoma City</title>
+    <link rel="preconnect" href="https://images.unsplash.com" />
+    <link rel="preconnect" href="https://images.pexels.com" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="ambient ambient-one"></div>
+    <div class="ambient ambient-two"></div>
+
+    <header class="site-header" data-animate>
+      <a class="brand" href="#top" aria-label="Aether Climate home">
+        <span class="brand-mark">A</span>
+        <span>Aether Climate</span>
+      </a>
+      <nav class="main-nav" aria-label="Primary navigation">
+        <a href="#services">Services</a>
+        <a href="#technology">Technology</a>
+        <a href="#process">Process</a>
+        <a href="#reviews">Reviews</a>
+      </nav>
+      <a class="nav-cta" href="tel:+14055550192">Book Service</a>
+    </header>
+
+    <main id="top">
+      <section class="hero section-shell">
+        <div class="hero-copy" data-animate>
+          <p class="eyebrow">Oklahoma City comfort systems</p>
+          <h1>HVAC engineered like a clean-energy platform.</h1>
+          <p class="hero-lede">
+            Precision heating, cooling, air quality, and smart controls for OKC homes that expect the
+            service model of tomorrow, today.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#cta">Schedule a diagnostic</a>
+            <a class="button secondary" href="#technology">Explore the system</a>
+          </div>
+          <div class="hero-metrics" aria-label="Company highlights">
+            <div>
+              <strong>24/7</strong>
+              <span>rapid response</span>
+            </div>
+            <div>
+              <strong>4.9</strong>
+              <span>OKC rating</span>
+            </div>
+            <div>
+              <strong>15%</strong>
+              <span>avg. efficiency lift</span>
+            </div>
+          </div>
+        </div>
+        <div class="hero-visual" data-animate>
+          <div class="hero-photo">
+            <img
+              src="https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=1200&q=82"
+              alt="Modern smart thermostat on a clean wall"
+            />
+          </div>
+          <div class="system-panel glass">
+            <div class="panel-topline">
+              <span>Live Comfort OS</span>
+              <span class="status-dot">Optimal</span>
+            </div>
+            <div class="temperature">72<span>deg</span></div>
+            <div class="signal-row">
+              <span>Humidity</span>
+              <strong>43%</strong>
+            </div>
+            <div class="signal-row">
+              <span>Air purity</span>
+              <strong>97%</strong>
+            </div>
+            <div class="signal-row">
+              <span>Energy draw</span>
+              <strong>-18%</strong>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="logos section-shell" aria-label="Service promise" data-animate>
+        <span>Smart diagnostics</span>
+        <span>Heat pump fluent</span>
+        <span>Indoor air quality</span>
+        <span>Transparent pricing</span>
+      </section>
+
+      <section id="services" class="section-shell section-grid">
+        <div class="section-heading" data-animate>
+          <p class="eyebrow">Services</p>
+          <h2>Premium comfort, from emergency repair to whole-home redesign.</h2>
+        </div>
+        <div class="service-grid">
+          <article class="glass service-card" data-animate>
+            <span class="icon">01</span>
+            <h3>AC Repair & Installation</h3>
+            <p>Fast cooling diagnostics, right-sized replacements, and clean installs built for Oklahoma heat.</p>
+          </article>
+          <article class="glass service-card" data-animate>
+            <span class="icon">02</span>
+            <h3>Heating & Heat Pumps</h3>
+            <p>High-efficiency furnaces and cold-weather heat pump systems tuned for quiet performance.</p>
+          </article>
+          <article class="glass service-card" data-animate>
+            <span class="icon">03</span>
+            <h3>Air Quality</h3>
+            <p>Filtration, purification, humidity balance, and airflow mapping for healthier indoor air.</p>
+          </article>
+          <article class="glass service-card" data-animate>
+            <span class="icon">04</span>
+            <h3>Membership Care</h3>
+            <p>Predictive tune-ups, priority appointments, and documented system history after every visit.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="technology" class="technology">
+        <div class="section-shell tech-layout">
+          <div class="tech-image" data-animate>
+            <img
+              src="https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=82"
+              alt="Technician reviewing precision equipment in a modern mechanical environment"
+            />
+          </div>
+          <div class="tech-copy" data-animate>
+            <p class="eyebrow">Technology</p>
+            <h2>Comfort OS connects diagnostics, airflow, and energy behavior.</h2>
+            <p>
+              Every visit includes sensor-driven readings, thermal load context, and a digital service record.
+              You see the logic behind each recommendation before any work begins.
+            </p>
+            <div class="tech-list">
+              <div>
+                <strong>Thermal mapping</strong>
+                <span>Room-by-room comfort gaps and airflow pressure checks.</span>
+              </div>
+              <div>
+                <strong>Smart control setup</strong>
+                <span>Thermostats, zones, schedules, and remote monitoring.</span>
+              </div>
+              <div>
+                <strong>Efficiency modeling</strong>
+                <span>Upgrade paths measured by comfort, cost, and resilience.</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="why-us" class="section-shell split-section">
+        <div class="section-heading compact" data-animate>
+          <p class="eyebrow">Why Us</p>
+          <h2>Built for homeowners who want certainty, not sales pressure.</h2>
+        </div>
+        <div class="why-grid">
+          <article data-animate>
+            <h3>Design-grade proposals</h3>
+            <p>Options are visual, comparable, and written in plain English with no buried assumptions.</p>
+          </article>
+          <article data-animate>
+            <h3>White-glove crews</h3>
+            <p>Clean work zones, shoe covers, protected floors, and installation details photographed.</p>
+          </article>
+          <article data-animate>
+            <h3>OKC climate expertise</h3>
+            <p>Systems planned for wind, dust, humidity swings, hail season, and triple-digit summer days.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="process" class="section-shell">
+        <div class="section-heading centered" data-animate>
+          <p class="eyebrow">Process</p>
+          <h2>A calmer way to replace or repair HVAC.</h2>
+        </div>
+        <div class="process-grid">
+          <article class="glass process-card" data-animate>
+            <span>1</span>
+            <h3>Scan</h3>
+            <p>We inspect performance, airflow, electrical load, refrigerant behavior, and indoor comfort signals.</p>
+          </article>
+          <article class="glass process-card" data-animate>
+            <span>2</span>
+            <h3>Model</h3>
+            <p>You receive clean options with lifecycle cost, rebate notes, comfort impact, and timeline.</p>
+          </article>
+          <article class="glass process-card" data-animate>
+            <span>3</span>
+            <h3>Deploy</h3>
+            <p>Certified installation or repair is completed with commissioning data and photo documentation.</p>
+          </article>
+          <article class="glass process-card" data-animate>
+            <span>4</span>
+            <h3>Optimize</h3>
+            <p>We tune controls, confirm comfort, and keep your service record available for future visits.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="reviews" class="reviews">
+        <div class="section-shell">
+          <div class="section-heading centered" data-animate>
+            <p class="eyebrow">Reviews</p>
+            <h2>Trusted across the metro for precise, transparent service.</h2>
+          </div>
+          <div class="review-grid">
+            <article class="glass review-card" data-animate>
+              <p>“This felt more like a Tesla service appointment than an HVAC call. Clear data, no pressure, flawless install.”</p>
+              <strong>Madison R.</strong>
+              <span>Edmond</span>
+            </article>
+            <article class="glass review-card" data-animate>
+              <p>“They found airflow issues two other companies missed. The house is quieter and our upstairs finally cools evenly.”</p>
+              <strong>Daniel K.</strong>
+              <span>Oklahoma City</span>
+            </article>
+            <article class="glass review-card" data-animate>
+              <p>“Premium in the best way: organized, spotless, and incredibly clear about every number on the proposal.”</p>
+              <strong>Priya S.</strong>
+              <span>Nichols Hills</span>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="faq" class="section-shell faq-section">
+        <div class="section-heading compact" data-animate>
+          <p class="eyebrow">FAQ</p>
+          <h2>Good answers before the appointment.</h2>
+        </div>
+        <div class="faq-list" data-animate>
+          <details open>
+            <summary>Do you serve all of Oklahoma City?</summary>
+            <p>Yes. We cover Oklahoma City, Edmond, Moore, Norman, Yukon, Mustang, Bethany, and nearby metro areas.</p>
+          </details>
+          <details>
+            <summary>Can you install smart thermostats and zoning?</summary>
+            <p>Yes. We configure smart thermostats, multi-zone systems, schedules, remote access, and comfort profiles.</p>
+          </details>
+          <details>
+            <summary>Do you provide emergency HVAC repair?</summary>
+            <p>Yes. Priority response is available for cooling and heating failures, especially for membership clients.</p>
+          </details>
+          <details>
+            <summary>Can you help compare repair vs. replacement?</summary>
+            <p>Yes. We show repair cost, projected lifespan, efficiency impact, comfort improvement, and replacement options.</p>
+          </details>
+        </div>
+      </section>
+
+      <section id="cta" class="section-shell cta-section">
+        <div class="cta-card glass" data-animate>
+          <div>
+            <p class="eyebrow">Book Aether</p>
+            <h2>Bring future-ready climate control to your OKC home.</h2>
+            <p>Schedule a diagnostic and get a clear service plan before the next heat wave arrives.</p>
+          </div>
+          <form class="lead-form" action="mailto:hello@aetherclimate.example" method="post" enctype="text/plain">
+            <label>
+              <span>Name</span>
+              <input type="text" name="name" placeholder="Your name" required />
+            </label>
+            <label>
+              <span>Phone</span>
+              <input type="tel" name="phone" placeholder="(405) 555-0192" required />
+            </label>
+            <label>
+              <span>Need</span>
+              <select name="need" required>
+                <option value="">Select service</option>
+                <option>AC repair</option>
+                <option>System replacement</option>
+                <option>Heating service</option>
+                <option>Air quality</option>
+              </select>
+            </label>
+            <button class="button primary" type="submit">Request appointment</button>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer section-shell">
+      <div>
+        <a class="brand" href="#top" aria-label="Aether Climate home">
+          <span class="brand-mark">A</span>
+          <span>Aether Climate</span>
+        </a>
+        <p>Future-ready HVAC for Oklahoma City homes.</p>
+      </div>
+      <div class="footer-links">
+        <a href="tel:+14055550192">(405) 555-0192</a>
+        <a href="mailto:hello@aetherclimate.example">hello@aetherclimate.example</a>
+        <a href="#faq">FAQ</a>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
